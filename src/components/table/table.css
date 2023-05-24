@@ -1,0 +1,47 @@
+.infos {
+  position: relative;
+}
+
+tr {
+  height: 70px;
+}
+
+table {
+  border-spacing: 0px;
+  margin: 0 auto;
+  width: 90%;
+  margin-top: 68px;
+  padding-bottom: 94px;
+}
+
+.table-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0px 10px 60px 0px #e2ecf980;
+  border-radius: 30px;
+  margin-top: 30px;
+}
+
+table tr td {
+  border-bottom: 1px solid #eeeeee;
+  color: #292d32;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+tr th {
+  color: #b5b7c0;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: left;
+  border-bottom: 1px solid #eeeeee;
+}
+.table-header {
+  position: relative;
+}
+
+.heading-wrapper {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 30px;
+}
